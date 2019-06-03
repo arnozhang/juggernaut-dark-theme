@@ -3,7 +3,13 @@
     "displayName": "Juggernaut Dark",
     "description": "A dart theme published by arnozhang",
     "author": "arnozhang",
+    "publisher": "arnozhang",
     "version": "1.0.0",
+    "license": "Apache License 2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arnozhang/juggernaut-dark-theme.git"
+    },
     "engines": {
         "vscode": "*"
     },
