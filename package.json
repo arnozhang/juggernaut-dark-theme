@@ -1,0 +1,22 @@
+{
+    "name": "juggernaut-dark",
+    "displayName": "Juggernaut Dark",
+    "description": "A dart theme published by arnozhang",
+    "author": "arnozhang",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Juggernaut Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JuggernautDark-color-theme.json"
+            }
+        ]
+    }
+}
