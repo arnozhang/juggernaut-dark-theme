@@ -197,6 +197,20 @@
 
 		<dict>
 			<key>name</key>
+			<string>Storage Modifier</string>
+			<key>scope</key>
+			<string>storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF55AA</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
 			<string>Class name</string>
 			<key>scope</key>
 			<string>entity.name.class</string>
@@ -608,6 +622,20 @@
 		
 		<dict>
 			<key>name</key>
+			<string>Markdown Raw String</string>
+			<key>scope</key>
+			<string>markup.inline.raw.string.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#98C379</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
 			<string>Markdown Bold Text</string>
 			<key>scope</key>
 			<string>markup.bold.markdown</string>
@@ -617,6 +645,20 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#FF55AA</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Markdown Italic Text</string>
+			<key>scope</key>
+			<string>markup.italic.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#C48CFF</string>
 			</dict>
 		</dict>
 
@@ -675,6 +717,77 @@
 				<string>#CFBFAD</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Namespace</string>
+			<key>scope</key>
+			<string>entity.name.type.namespace</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>User Defined Type</string>
+			<key>scope</key>
+			<string>storage.type.user-defined</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Destructor Name</string>
+			<key>scope</key>
+			<string>entity.name.function.destructor</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Constructor Name</string>
+			<key>scope</key>
+			<string>entity.name.function.constructor</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Preprocessor</string>
+			<key>scope</key>
+			<string>entity.name.function.preprocessor</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		
 		<!-- override -->
 
 	</array>
