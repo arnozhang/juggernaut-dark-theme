@@ -453,8 +453,8 @@
 				<key>foreground</key>
 				<string>#F92672</string>
 			</dict>
-
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>diff.inserted</string>
@@ -788,6 +788,47 @@
 			</dict>
 		</dict>
 		
+		<dict>
+			<key>name</key>
+			<string>JSX tag</string>
+			<key>scope</key>
+			<string>support.class.component.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>JSX tag</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>Java import</string>
+			<key>scope</key>
+			<string>storage.modifier.import.java</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#46A3FF</string>
+			</dict>
+		</dict>
 		<!-- override -->
 
 	</array>
