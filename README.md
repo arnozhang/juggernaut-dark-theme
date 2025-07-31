@@ -1,5 +1,7 @@
 # Juggernaut Dark Theme
 
+> https://code.visualstudio.com/api/references/theme-color
+
 > Based on the [one-dark-syntax](https://github.com/atom/one-dark-syntax) Theme from Atom text editor.
 
 - install: [juggernaut-dark-theme](https://marketplace.visualstudio.com/items?itemName=arnozhang.juggernaut-dark-theme)
