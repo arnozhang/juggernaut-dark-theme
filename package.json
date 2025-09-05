@@ -1,29 +1,29 @@
 {
-    "name": "juggernaut-dark-theme",
-    "displayName": "Juggernaut Dark",
-    "description": "A dart theme published by arnozhang",
-    "author": "arnozhang",
-    "publisher": "arnozhang",
-    "version": "1.0.0",
-    "icon": "icon.png",
-    "license": "Apache License 2.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/arnozhang/juggernaut-dark-theme.git"
-    },
-    "engines": {
-        "vscode": "*"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Juggernaut Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/JuggernautDark-color-theme.json"
-            }
-        ]
-    }
+  "name": "juggernaut-dark-theme",
+  "displayName": "Juggernaut Dark",
+  "description": "A dart theme published by arnozhang",
+  "author": "arnozhang",
+  "publisher": "arnozhang",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnozhang/juggernaut-dark-theme.git"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Juggernaut Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JuggernautDark-color-theme.json"
+      }
+    ]
+  }
 }
